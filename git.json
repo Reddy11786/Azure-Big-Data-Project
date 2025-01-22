@@ -1,0 +1,7 @@
+[
+    {
+        "c_rel_url": "Reddy11786/Azure-Big-Data-Project/refs/heads/main/Data/olist_customers_dataset.csv",
+        "ds_sink_folder": "olist_customers_dataset",
+        "c_file_name": "olist_customers_dataset.csv"
+    }
+]
